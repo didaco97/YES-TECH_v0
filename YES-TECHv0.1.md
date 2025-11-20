@@ -291,7 +291,7 @@ class FarmYieldEstimator:
 
 ## **F. Implementation Roadmap**
 
-### Phase 1 (Pilot - 3 months):
+### Phase 1
 
 - Select 2-3 districts with existing YES-TECH infrastructure
 - Deploy UAV-based data collection for paddy/wheat
@@ -299,7 +299,7 @@ class FarmYieldEstimator:
 - Develop MVP dashboard
 
 
-### Phase 2 (Scale-up - 6 months):
+### Phase 2
 
 - Extend to 10 districts across 3 states
 - Integrate ML ensemble models
@@ -307,7 +307,7 @@ class FarmYieldEstimator:
 - Farmer mobile app deployment
 
 
-### Phase 3 (Production - 12 months):
+### Phase 3
 
 - Nationwide rollout for high-value crops
 - Automated UAV deployment system
